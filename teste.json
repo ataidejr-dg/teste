@@ -1,10 +1,218 @@
 {
-	"EQUATORIAL GO": {
-		"ultimas horas": 120,
-		"faltam subir": 100
-	},
-	"EQUATORIAL AL": {
-		"ultimas horas": 100,
-		"faltam subir": 50
-	}
+  "CEMIG": {
+    "recent_uploaded": 385,
+    "remaining": 217
+  },
+  "NEOENERGIA PE": {
+    "recent_uploaded": 167,
+    "remaining": 4
+  },
+  "ENERGISA MG": {
+    "recent_uploaded": 1,
+    "remaining": 64
+  },
+  "COPEL": {
+    "recent_uploaded": 410,
+    "remaining": 84
+  },
+  "CPFL PAULISTA": {
+    "recent_uploaded": 53,
+    "remaining": 3
+  },
+  "CELESC": {
+    "recent_uploaded": 124,
+    "remaining": 115
+  },
+  "EQUATORIAL AL": {
+    "recent_uploaded": 22,
+    "remaining": 109
+  },
+  "NEOENERGIA BR": {
+    "recent_uploaded": 15,
+    "remaining": 0
+  },
+  "EQUATORIAL ENERGIA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "NEOENERGIA COELBA": {
+    "recent_uploaded": 72,
+    "remaining": 40
+  },
+  "ENEL CE": {
+    "recent_uploaded": 42,
+    "remaining": 31
+  },
+  "ENERGISA AC": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "EDP ES": {
+    "recent_uploaded": 1,
+    "remaining": 0
+  },
+  "RORAIMA ENERGIA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "EQUATORIAL MA": {
+    "recent_uploaded": 490,
+    "remaining": 2
+  },
+  "ENERGISA SS": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "DME": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CPFL SANTA CRUZ": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "NEOENERGIA ELEKTRO": {
+    "recent_uploaded": 34,
+    "remaining": 9
+  },
+  "ENERGISA MS": {
+    "recent_uploaded": 1,
+    "remaining": 1
+  },
+  "ENERGISA MT": {
+    "recent_uploaded": 38,
+    "remaining": 0
+  },
+  "EQUATORIAL PA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "ENERGISA PB": {
+    "recent_uploaded": 0,
+    "remaining": 1
+  },
+  "ENERGISA BO": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "EQUATORIAL PI": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "ENEL RJ": {
+    "recent_uploaded": 5,
+    "remaining": 2
+  },
+  "LIGHT": {
+    "recent_uploaded": 2,
+    "remaining": 6
+  },
+  "DCELT ENERGIA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "NEOENERGIA COSERN": {
+    "recent_uploaded": 17,
+    "remaining": 0
+  },
+  "ENERGISA RO": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "RGE": {
+    "recent_uploaded": 88,
+    "remaining": 99
+  },
+  "CEEE D": {
+    "recent_uploaded": 8,
+    "remaining": 0
+  },
+  "HIDROPAN": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "ENERGISA SE": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "EDP SP": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CPFL PIRATININGA": {
+    "recent_uploaded": 0,
+    "remaining": 16
+  },
+  "ENEL SP": {
+    "recent_uploaded": 0,
+    "remaining": 2
+  },
+  "ENERGISA TO": {
+    "recent_uploaded": 0,
+    "remaining": 8
+  },
+  "EQUATORIAL GO": {
+    "recent_uploaded": 135,
+    "remaining": 65
+  },
+  "CHESP": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "AMAZONAS ENERGIA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CERTEL": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CERAÇA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "COCEL": {
+    "recent_uploaded": 2,
+    "remaining": 0
+  },
+  "PACTO ENERGIA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CELETRO": {
+    "recent_uploaded": 5,
+    "remaining": 0
+  },
+  "CERBRANORTE": {
+    "recent_uploaded": 2,
+    "remaining": 0
+  },
+  "COOPERZEM": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CERAL": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "COPREL": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CERGRAL": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CERMISSOES RS": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CRELUZ RS": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  },
+  "CEJAMA": {
+    "recent_uploaded": 0,
+    "remaining": 0
+  }
 }
